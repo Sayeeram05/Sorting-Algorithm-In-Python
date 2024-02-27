@@ -19,4 +19,8 @@ A Sorting Algorithm is used to rearrange a given array or list of elements accor
   <h3>4.Merge Sort</h3>
   <p>Merge sort is defined as a sorting algorithm that works by dividing an array into smaller subarrays, sorting each subarray, and then merging the sorted subarrays back together to form the final sorted array.</p>
 </div>
+<div>
+  <h3>5.Quick Sort</h3>
+  <p>QuickSort is a sorting algorithm based on the Divide and Conquer algorithm that picks an element as a pivot and partitions the given array around the picked pivot by placing the pivot in its correct position in the sorted array.</p>
+</div>
 
